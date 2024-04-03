@@ -14,7 +14,7 @@ const Todos = () => {
       {completedTodosCount > 0 &&
         <p className="todos__message">
           You have completed {completedTodosCount}
-          {completedTodosCount > 1 ? "todos" : "todo"}
+          {completedTodosCount > 1 ? " todos" : " todo"}
         </p>}
     </div>
   );
