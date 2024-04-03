@@ -102,7 +102,6 @@ form {
   gap: 20px;
   justify-content: center;
   margin-bottom: 40px;
-
 }
 
 .todos__message,
@@ -141,6 +140,7 @@ form {
 .todo--completed .todo__delete-btn,
 .todo--completed .todo__check-btn {
   color: #aaaaaa;
+  cursor: none;
 }
 
 .todo__id {
