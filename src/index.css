@@ -140,7 +140,6 @@ form {
 .todo--completed .todo__delete-btn,
 .todo--completed .todo__check-btn {
   color: #aaaaaa;
-  cursor: none;
 }
 
 .todo__id {
